@@ -7,5 +7,5 @@ echo "running main.go"
 go run main.go
 
 
-# docker exec -it mongo_IDT /bin/bash
+# docker exec -it mongo_moodMusic /bin/bash
 # mongosh
